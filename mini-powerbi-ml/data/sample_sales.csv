@@ -1,0 +1,11 @@
+Region,Category,Sales,Profit,Returned
+East,Technology,1200,240,No
+West,Furniture,800,80,No
+North,Office Supplies,450,45,Yes
+South,Technology,1500,300,No
+East,Furniture,700,70,Yes
+West,Office Supplies,600,60,No
+North,Technology,1800,360,No
+South,Furniture,900,90,Yes
+East,Office Supplies,500,55,No
+West,Technology,2000,450,No
